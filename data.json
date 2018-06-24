@@ -1,0 +1,24 @@
+{
+  "basic":{
+    "name":"muntaj",
+    "email":"muntajshaik88888@gmail.com",
+    "mobile":"+91-9966811869"
+  },
+  "education":[
+    {
+      "degree":"B-Tech",
+      "institute":"PSCMR",
+      "data":["2015-19","70%"]
+    },
+    {
+      "degree":"Intermediate",
+      "institute":"Naryana JUnior college",
+      "data":["2013-14","72%"]
+    },
+    {
+      "degree":"S.S.C",
+      "institute":"sharda vidya nikathen",
+      "data":["2013","65%"]
+    }
+  ]
+}
