@@ -4,6 +4,9 @@
     "email":"muntajshaik88888@gmail.com",
     "mobile":"+91-9966811869"
   },
+  "careerobjective":{
+    "info":"To pursue a challenging career"
+},
   "education":[
     {
       "degree":"B-Tech",
@@ -20,5 +23,33 @@
       "institute":"sharda vidya nikathen",
       "data":["2013","65%"]
     }
-  ]
+  ],
+  "achievements":[
+    {
+      "name":"Awarede as <b>1<sup></sup>prize</b> in self-Defence</q>"
+
+    },
+    {
+      "name":"Got <stong>1<sup>st</sup>prize</strong> for <q>ppt presentation </q>"
+    }
+  ],
+  "skills":[
+
+    {
+      "name":"programming Languages",
+      "data":["c","java","python","php","c++"]
+    },
+    {
+      "name":"Databases",
+      "data":["mySql","Oracle"]
+    },
+    {
+      "name":"Web Technologies",
+      "data":["HTML","CSS"]
+    },
+    {
+      "name":"Libraries and Framewroks",
+      "data":["jQurey","codeIngniteer"]
+    }
+]
 }
